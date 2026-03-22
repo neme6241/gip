@@ -1,4 +1,3 @@
-Hi od
 kinan
 add peromped
 updeta test.txt from task1 in 
