@@ -8,3 +8,7 @@ add foter
 hi motser
 kinan
 add peromped
+updeta test.txt from task1 in 
+local soreg in master
+
+
